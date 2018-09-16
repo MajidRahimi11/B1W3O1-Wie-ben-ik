@@ -1,0 +1,52 @@
+body {
+	color: white;
+	font-family: 'Quicksand', sans-serif;
+
+   background-image: url("wallpaper2.gif");
+   background-color: #cccccc;
+
+}
+
+p   {
+
+text-align: center;
+
+}
+
+a {
+    color: lightblue;
+
+    text-align: right;
+}
+
+/*dit laat de link een andere kleur geven als je met je muis erover gaat*/
+a:hover {
+    color: grey;
+}
+
+a:link, a:visited {
+    background-color: #f12235;
+    color: white;
+    padding: 14px 25px;
+    text-align: center; 
+    text-decoration: none;
+    display: inline-block;
+    font-size: 13px;
+}
+
+a:hover, a:active {
+    background-color: grey;
+}
+
+img {
+    float: left;
+    width: 225px;
+    height: s400px;
+}
+
+h1 {
+
+	color: red;
+	text-align: center;
+}
+
